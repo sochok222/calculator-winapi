@@ -1,0 +1,9 @@
+﻿  Calculator_v2.0.cpp
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(211,21): warning C4804: '>': unsafe use of type 'bool' in operation
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(211,43): warning C4804: '>': unsafe use of type 'bool' in operation
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(203,29): warning C4101: 'e': unreferenced local variable
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(242,42): warning C4101: 'e': unreferenced local variable
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(259,33): warning C4101: 'e': unreferenced local variable
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(422,27): warning C4566: character represented by universal-character-name '\u00B2' cannot be represented in the current code page (1251)
+R:\Cpp\My projects\Calculator_v2.0\Calculator_v2.0\Calculator_v2.0.cpp(502,14): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Calculator_v2.0.vcxproj -> R:\Cpp\My projects\Calculator_v2.0\x64\Debug\Calculator_v2.0.exe
